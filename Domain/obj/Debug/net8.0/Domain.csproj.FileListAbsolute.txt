@@ -1,0 +1,11 @@
+C:\Users\rcarmona\Downloads\curso c#\EasyPOS\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\rcarmona\Downloads\curso c#\EasyPOS\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\rcarmona\Downloads\curso c#\EasyPOS\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\rcarmona\Downloads\curso c#\EasyPOS\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rcarmona\Downloads\curso c#\EasyPOS\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\rcarmona\Downloads\curso c#\EasyPOS\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\rcarmona\Downloads\curso c#\EasyPOS\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\rcarmona\Downloads\curso c#\EasyPOS\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\rcarmona\Downloads\curso c#\EasyPOS\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\rcarmona\Downloads\curso c#\EasyPOS\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\rcarmona\Downloads\curso c#\EasyPOS\Domain\obj\Debug\net8.0\ref\Domain.dll
